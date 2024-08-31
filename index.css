@@ -10,6 +10,7 @@ body {
     font-weight: bold;
     text-align: center;
     color:#F4CA93ff;
+    text-shadow: 1px 0.5px #000;
 }
 
 h1 {
